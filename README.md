@@ -48,7 +48,7 @@ I’m a Cybersecurity Analyst and Cloud Security Enthusiast based in **Fairfax, 
 ---
 
 ## 💼 Professional Experience
-- **Security Researcher @ Bugcrowd** *(May 2022 – Present)*  
+- **Bug Bounty Experience @ Bugcrowd** *(May 2022 – Present)*  
   Identifying and reporting critical vulnerabilities through bug bounty programs.
 - **Associate Security Engineer @ Accenture** *(Oct 2022 – Aug 2023)*  
   Conducted secure code reviews, penetration testing, and assisted with cloud security audits for critical applications.
