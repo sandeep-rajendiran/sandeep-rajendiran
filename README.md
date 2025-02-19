@@ -65,7 +65,7 @@ I’m a Cybersecurity Analyst and Cloud Security Enthusiast based in **Fairfax, 
 ---
 
 ## 📬 Contact
-📧 **Email:** [srajendi@gmu.edu](mailto:srajendi@gmu.edu)  
+📧 **Email:** [sandeep76575@gmail.com](mailto:sandeep76575@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sandeep-rajendran-33a60a19a/](https://linkedin.com/in/sandeep-rajendran-33a60a19a/)  
 🌍 **Location:** Fairfax, VA, USA
 
