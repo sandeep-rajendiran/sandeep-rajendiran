@@ -6,6 +6,7 @@ I’m a Cybersecurity Analyst and Cloud Security Enthusiast based in **Fairfax, 
 - 🔒 Specializing in **Penetration Testing**, **Secure Code Review**, **Cloud Security**, **Cloud Computing**, and **LLM Security**.
 - 🧑‍💻 Exploring cutting-edge security tools and platforms like **Burp Suite**, **GCP**, **AWS**, **Azure**, and **OWASP LLM Security Guidelines**.
 - 📝 Sharing knowledge on **Offensive Security**, **Cloud Security**, **Bug Bounties**, **Cloud Infrastructure Security**, and **LLM Threat Mitigation**.
+- 🌐 Focused on **Multi-cloud automation**, **AI-driven cloud security solutions**, and **building resilient cloud-native applications using Docker, Kubernetes, and Terraform**.
 - 🚀 Open to **collaborations**, **cloud security consulting**, **LLM security research**, and **security research projects**.
 
 ---
